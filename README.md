@@ -1,7 +1,7 @@
 # C++ Algorithms
 
 ## About
-This repository contains a collection of diverse C++ algorithms designed to be easily integrated into various coding projects. The algorithms cover a range of functionalities, from search and sorting algorithms to decryption methods.
+This repository contains a collection of diverse C++ algorithms designed to be easily integrated into various coding projects. The algorithms cover a range of functionalities.
 
 ## Goal
 The primary goal of this repository is to provide a handy toolkit of algorithms that can be readily utilized in code. Whether you're working on academic projects, personal initiatives, or professional software development, these algorithms aim to facilitate efficient and effective coding practices.
