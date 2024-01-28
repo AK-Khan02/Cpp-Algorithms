@@ -14,7 +14,7 @@ To use an algorithm from this repository, simply clone the repo or copy the spec
 
 // Use the function in your code
 auto result = desired_function(input_parameters);
-//
+```
 
 ## Contributing
 Contributions to this repository are welcome! If you have an algorithm to add or an improvement to an existing one, feel free to fork the repository, make your changes, and submit a pull request.
